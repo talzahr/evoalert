@@ -2,7 +2,7 @@
 
 ### Begin config
 
-## IMPORTANT: Configure 'audioFile' and 'enableAudio' vars to have audio alerts.
+## IMPORTANT: Configure 'audioFile' and 'enableAudio' vars to have audio alerts ##
 
 # General config
 loopDelay="31" # Loop delay in minutes to check for new build. 
