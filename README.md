@@ -33,12 +33,12 @@ MIT License, [see LICENSE](../master/LICENSE).
 
 ## TO DO
 
--A open license audio file
--User-customizable colors
--Maybe a install and config script for the important options
--More ANSI escape sequences, because they're great 
--Main loop in its own subshell so the user can input keys while it runs and change settings realtime
+- A open license audio file
+- User-customizable colors
+- Maybe a install and config script for the important options
+- More ANSI escape sequences, because they're great 
+- Main loop in its own subshell so the user can input keys while it runs and change settings realtime
 
-Simple script so didn't add too much. Just fun to do. 
+Simple script so didn't add too much. Just fun to do. :D
 
 
