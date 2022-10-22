@@ -69,7 +69,7 @@ on_init () {
 		[[ "$?" -ne 0 ]] && on_error 2 "Error: Cannot write to ${logFile}! Exiting."
 	fi
 
-	audioPlayerOuts=${audioPlayerOpts:---} # If empty or unset
+	audioPlayerOpts=${audioPlayerOpts:---} # If empty or unset
 	
 	# Overwrite redirect for clean logFile
 	echo "$(date "$dateTimeFormat"): New $scriptName v$scriptVer log file created." > "$logFile"

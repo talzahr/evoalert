@@ -33,9 +33,9 @@ MIT License, [see LICENSE](../master/LICENSE).
 
 ## TO DO
 
-- A open license audio file
+- An open license audio file
 - User-customizable colors
-- Maybe a install and config script for the important options
+- Maybe an install and config script for the important options
 - More ANSI escape sequences, because they're great 
 - Main loop in its own subshell so the user can input keys while it runs and change settings realtime
 
