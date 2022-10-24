@@ -364,7 +364,7 @@ on_error () {
 
 on_exit () {
 	
-	printf '\e[u' # Restore cursor position
+	# printf '\e[u' # Restore cursor position
 
 	[[ "$1" -gt 0 ]] && echo -e "\n${errMsg}\nDetailed logs at $logFile"
 	echo -e "\nExiting ${scriptName}."
