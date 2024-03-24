@@ -1,3 +1,6 @@
+# UPDATE: This will no longer work for alerting of EVO patch notes dropping.
+Previously, Evocati patch notes were quickly posted on Pastebin. However, that user now uses her Discord channel for this. I now use a browser userscript for alerting on MOTD updates. See https://github.com/talzahr/spectrumMOTDalert
+
 # Evocati Alert Script for New Build Notification
 
 This script is meant for Star Citizen Evocati testers to know when a new build is ready. 
